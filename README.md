@@ -1,2 +1,2 @@
-# interview-prep-may-25
+# Coding Practice
 Self preparation for coding assessment and interview
